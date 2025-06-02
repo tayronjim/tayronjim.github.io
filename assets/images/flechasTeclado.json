@@ -1,0 +1,44 @@
+{
+    "frames": {
+        "arrowLeft": {
+            "frame": {
+                "x": 8, 
+                "y": 168,
+                "w": 146,
+                "h": 146
+            }
+        },
+        "arrowRight": {
+            "frame": {
+                "x": 325, 
+                "y": 168, 
+                "w": 146,
+                "h": 146
+            }
+        },
+        "arrowUP": {
+            "frame": {
+                "x": 165, 
+                "y": 10, 
+                "w": 146,
+                "h": 146
+            }
+        },
+        "arrowDown": {
+            "frame": {
+                "x": 165, 
+                "y": 168, 
+                "w": 146,
+                "h": 146
+            }
+        }
+    },
+    "meta": {
+        "image": "flechasTeclado.png",
+        "size": {
+            "w": 480,
+            "h": 325
+        },
+        "scale": "1"
+    }
+}
